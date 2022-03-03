@@ -147,7 +147,7 @@ public class Controlador extends HttpServlet {
                 }
                 case "Editar":{
                     ide = Integer.parseInt(request.getParameter("id"));
-                    Cliente c = new Cliente(ide);
+                    Cliente c = clienteDAO.listarId(ide);
                     request.setAttribute("cliente", c);
                     request.getRequestDispatcher("Controlador?menu=Cliente&accion=Listar").forward(request, response);
                     break;
@@ -257,6 +257,7 @@ public class Controlador extends HttpServlet {
                     totalPagar = 0.0;
                     item = item+1;
                     cod = prod.getIdProducto();
+                    System.out.println(cod);
                     descripcion = request.getParameter("nomproducto");
                     precio = Double.parseDouble(request.getParameter("precio"));
                     cant = Integer.parseInt(request.getParameter("cant"));
@@ -283,6 +284,7 @@ public class Controlador extends HttpServlet {
                         Productos pr = new Productos();
                         int cantidad = listaVenta.get(i).getCantidad();
                         int idproducto = listaVenta.get(i).getIdproducto();
+                        System.out.println(idproducto);
                         ProductoDAO aO = new ProductoDAO();
                         pr = aO.buscar(idproducto);
                         int sac = pr.getStock() - cantidad;
@@ -302,7 +304,7 @@ public class Controlador extends HttpServlet {
                     for(int i = 0; i<listaVenta.size();i++){
                         v = new Venta();
                         v.setId(idv);
-                        v.setIdproducto(listaVenta.get(i).getIdempleado());
+                        v.setIdproducto(listaVenta.get(i).getIdproducto());
                         v.setCantidad(listaVenta.get(i).getCantidad());
                         v.setPrecio(listaVenta.get(i).getPrecio());
                         vdao.guardaDetalleVentas(v);

@@ -43,6 +43,7 @@ public class ClienteDAO {
     public List listar(){
         String sql = "SELECT * FROM cliente";
         List<Cliente> lista1 = new ArrayList<>(); 
+        int i=0;
         try{
             con = cn.Conexion();
             ps = con.prepareStatement(sql);
@@ -55,7 +56,6 @@ public class ClienteDAO {
                 cl.setDireccionCliente(rs.getString(4));
                 cl.setEstado(rs.getString(5));
                 lista1.add(cl);
-                System.out.println("No llega");
             }
         } catch(Exception ex){
             System.out.println("Error al traer datos "+ex.getMessage());
@@ -96,7 +96,7 @@ public class ClienteDAO {
         return cli;
     }
     public int actualizar(Cliente cl){
-        String sql = "UPDATE cliente SET Dni=?,Nombres=?,Dirección=?,Estado=? WHERE IdCliente=?";
+        String sql = "UPDATE cliente SET Dni=?,Nombres=?,Direccion=?,Estado=? WHERE IdCliente=?";
         try{
             con = cn.Conexion();
             ps = con.prepareStatement(sql);

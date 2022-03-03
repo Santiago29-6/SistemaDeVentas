@@ -97,6 +97,7 @@ public class ProductoDAO {
             ps = con.prepareStatement(sql);
             rs = ps.executeQuery();
             while(rs.next()){
+                pr.setIdProducto(id);
                 pr.setNomProducto(rs.getString(2));
                 pr.setPrecio(rs.getDouble(3));
                 pr.setStock(rs.getInt(4));

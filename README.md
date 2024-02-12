@@ -25,7 +25,7 @@
 Para acceder al proyecto debe primero ir a la rama `master` de hacer la descarga del .zip o por comandos ya que podemos encontrar el link del repositorio.
 POR COMANDOS
 * Damos click derecho donde queremos que se descargue el proyeto y damos click en la opción de Git Bash Here, se abrira una ventana.
-* Ahora, escribimos el siguiente comando: ` git clone --branch master https://github.com/Santiago29-6/SistemaDeVentas.git`, esperamos a que se descargue y ya tendría el proyecto en su computador.
+* Ahora, escribimos el siguiente comando: ` git clone --branch master https://github.com/Santiago29-6/SistemaDeVentas.git`, esperamos a que se descargue y ya tendría el proyecto en su computador.<br/>
 :hammer_and_wrench: Abre y ejecuta
 # :heavy_check_mark: Tecnologías utilizadas
 - Java 8

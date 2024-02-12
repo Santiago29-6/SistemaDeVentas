@@ -6,7 +6,7 @@
 * [Tecnologías utilizadas](#Tecnologias-utilizadas)
 # Descripción del proyecto
 # Estado del proyecto
-:chart:En finalización, solo falta la funcionalidad de crear PDF de los reportes de ventas:chart:
+:white_check_mark:En finalización, solo falta la funcionalidad de crear PDF de los reportes de ventas:white_check_mark:
 # :hammer: Funcionalidades
 - `Funcionalidad 1`: Se puede crear, modificar, eliminar empleados, en el cual pueden tener diferentes estados.
 - `Funcionalidad 2`: Se pueden agregar, editar, eliminar productos, agregar más a stock para estar disponible en venta.
@@ -16,4 +16,4 @@
 # Acceso al proyecto
 \ :file_folder: Acceso al proyecto
 \ :hammer_and_wrench: Abre y ejecuta
-# Tecnologías utilizadas
+# :heavy_check_mark: Tecnologías utilizadas

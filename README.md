@@ -2,7 +2,7 @@
 # Índice
 * [Descripción del proyecto](#Descripción-del-proyecto)
 * [Estado del proyecto](#Estado-del-proyecto)
-* [Funcionalidades](#Funcionalidades)
+* [Funcionalidades](#hammer-Funcionalidades)
 * [Acceso al proyecto](#Acceso-al-proyecto)
 * [Tecnologías utilizadas](#heavy_check_mark-tecnologías-utilizadas)
 # Descripción del proyecto

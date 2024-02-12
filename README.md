@@ -7,7 +7,7 @@
 * [Tecnologías utilizadas](#heavy_check_mark-tecnologías-utilizadas)
 # Descripción del proyecto
 # Estado del proyecto
-:white_check_mark:En finalización, la mayoria del proyecto está hecho:white_check_mark:
+:white_check_mark:En finalización, la mayoria del proyecto está hecho:white_check_mark: <br/>
 :heavy_exclamation_mark: Falta la creación de la funcionalidad de descarga, la cuál se descargará los informes de ventas en PDF :heavy_exclamation_mark:
 # :hammer: Funcionalidades
 - `Funcionalidad 1: Empleados`: Se puede crear, modificar, eliminar empleados, en el cual pueden tener diferentes estados.

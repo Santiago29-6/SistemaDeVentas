@@ -4,7 +4,7 @@
 * [Estado del proyecto](#Estado-del-proyecto)
 * [Funcionalidades](#Funcionalidades)
 * [Acceso al proyecto](#Acceso-al-proyecto)
-* [Tecnologías utilizadas](#:heavy_check_mark:Tecnologias-utilizadas)
+* [Tecnologías utilizadas](#:heavy_check_mark:-Tecnologias-utilizadas)
 # Descripción del proyecto
 # Estado del proyecto
 :white_check_mark:En finalización, solo falta la funcionalidad de crear PDF de los reportes de ventas:white_check_mark:

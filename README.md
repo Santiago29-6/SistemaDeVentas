@@ -13,4 +13,7 @@
 - `Funcionalidad 3`: Se puede crear, modificar, eliminar datos de un cliente.
 - `Funcionalidad 4`: Se puede generar una venta, en este busca un cliente, que producto desea y cuantos productos desea comprar, si desea eliminar un producto de la lista de productos se puede hacer, al igual que si se desea editar la cantidad, también se puede agregar más del mismo producto sin que se duplique el item.
 - `Funcionalidad 5`: Se puede ver todas las ventas que se han hecho.
+# Acceso al proyecto
+:file_folder: Acceso al proyecto
+:hammer_and_wrench: Abre y ejecuta
 # Tecnologías utilizadas

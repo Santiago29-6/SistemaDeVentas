@@ -6,5 +6,6 @@
 * [Tecnologías utilizadas](#Tecnologias-utilizadas)
 # Descripción del proyecto
 # Estado del proyecto
+:chart:En finalización, solo falta la funcionalidad de crear PDF de los reportes de ventas:chart:
 # Funcionalidades
 # Tecnologías utilizadas

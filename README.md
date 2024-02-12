@@ -1,4 +1,4 @@
-# SistemaDeVentas
+# Sistema de ventas
 # Índice
 * [Descripción del proyecto](#Descripción-del-proyecto)
 * [Estado del proyecto](#Estado-del-proyecto)
@@ -6,6 +6,9 @@
 * [Acceso al proyecto](#Acceso-al-proyecto)
 * [Tecnologías utilizadas](#heavy_check_mark-tecnologías-utilizadas)
 # Descripción del proyecto
+* Este proyecto es un sistemas de ventas sencillo el cual se pueden crear, modoficar y eliminar: empleado, clientes y productos.
+* También se pueden genera ventas, las cuales van a estar a cargo del empleado que haga login.
+* Se puede ver las ventas quién realizo las ventas, cuando, cuanto vendio y cuanto es el total de ventas.
 # Estado del proyecto
 :white_check_mark:En finalización, la mayoria del proyecto está hecho:white_check_mark: <br/>
 :heavy_exclamation_mark: Falta la creación de la funcionalidad de descarga, la cuál se descargará los informes de ventas en PDF :heavy_exclamation_mark: <br/>

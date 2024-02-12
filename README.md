@@ -1,6 +1,6 @@
 # SistemaDeVentas
 # Índice
-* [Descripción del proyecto](#Descripcion-del-proyecto)
+* [Descripción del proyecto](#Descripción-del-proyecto)
 * [Estado del proyecto](#Estado-del-proyecto)
 * [Funcionalidades](#Funcionalidades)
 * [Acceso al proyecto](#Acceso-al-proyecto)

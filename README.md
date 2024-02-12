@@ -10,7 +10,7 @@
 :white_check_mark:En finalización, la mayoria del proyecto está hecho:white_check_mark: <br/>
 :heavy_exclamation_mark: Falta la creación de la funcionalidad de descarga, la cuál se descargará los informes de ventas en PDF :heavy_exclamation_mark: <br/>
 > [!NOTE]
-> En un futuro espero crear tipos de usuario para que hayan más funcionalidades dentro del sistema.
+> En un futuro espero crear diferentes tipos de usuarios para que hayan más funcionalidades y secciones dentro del sistema.
 # :hammer: Funcionalidades
 - `Funcionalidad 1: Empleados`: Se puede crear, modificar, eliminar empleados, en el cual pueden tener diferentes estados.
 - `Funcionalidad 2: Producto`: Se pueden agregar, editar, eliminar productos, agregar más a stock para estar disponible en venta.

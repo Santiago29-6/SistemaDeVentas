@@ -6,7 +6,7 @@
 * [Acceso al proyecto](#Acceso-al-proyecto)
 * [Tecnologías utilizadas](#heavy_check_mark-tecnologías-utilizadas)
 # Descripción del proyecto
-* Este proyecto es un sistemas de ventas sencillo el cual se pueden crear, modoficar y eliminar: empleado, clientes y productos.
+* Este proyecto es un sistemas de ventas sencillo el cual se pueden crear, modificar y eliminar: empleado, clientes y productos.
 * También se pueden genera ventas, las cuales van a estar a cargo del empleado que haga login.
 * Se puede ver las ventas quién realizo las ventas, cuando, cuanto vendio y cuanto es el total de ventas.
 # Estado del proyecto
@@ -21,8 +21,12 @@
 - `Funcionalidad 4: Generar Venta`: Se puede generar una venta, en este busca un cliente, que producto desea y cuantos productos desea comprar, si desea eliminar un producto de la lista de productos se puede hacer, al igual que si se desea editar la cantidad, también se puede agregar más del mismo producto sin que se duplique el item.
 - `Funcionalidad 5: Ventas`: Se puede ver todas las ventas que se han hecho.
 # Acceso al proyecto
-\ :file_folder: Acceso al proyecto<br/>
-\ :hammer_and_wrench: Abre y ejecuta
+:file_folder: Acceso al proyecto<br/>
+Para acceder al proyecto debe primero ir a la rama `master` de hacer la descarga del .zip o por comandos ya que podemos encontrar el link del repositorio.
+POR COMANDOS
+* Damos click derecho donde queremos que se descargue el proyeto y damos click en la opción de Git Bash Here, se abrira una ventana.
+* Ahora, escribimos el siguiente comando: ` git clone --branch master https://github.com/Santiago29-6/SistemaDeVentas.git`, esperamos a que se descargue y ya tendría el proyecto en su computador.
+:hammer_and_wrench: Abre y ejecuta
 # :heavy_check_mark: Tecnologías utilizadas
 - Java 8
 - JSP: JavaServer Pages

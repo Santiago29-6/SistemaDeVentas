@@ -17,3 +17,7 @@
 \ :file_folder: Acceso al proyecto
 \ :hammer_and_wrench: Abre y ejecuta
 # :heavy_check_mark: Tecnologías utilizadas
+- Java 8
+- JSP: JavaServer Pages
+- Bootstrap 4.1
+- Maria BD

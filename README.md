@@ -28,7 +28,7 @@ POR COMANDOS
 :hammer_and_wrench: Abre y ejecuta <br/>
 Si sale que no tiene drivers de mysql y de itext, se encuentran en el la carpeta de descarga :open_file_folder:, tan solo busque en la parte izquierda de sus pantalla :desktop_computer:, como se muestra en la imagen.<br/>
 ![image](https://github.com/Santiago29-6/SistemaDeVentas/assets/73140872/bbc966f2-4655-48cb-aa93-a351624b48f0)<br/>
-Le da click derecho y le debe de aparecer el siguiente menú.<br/>
+Le da click derecho en la opción de :books:`Libraries`y le debe de aparecer el siguiente menú.<br/>
 ![image](https://github.com/Santiago29-6/SistemaDeVentas/assets/73140872/0dd3d76d-e98e-43cf-8803-727d85750d63)<br/>
 Le da en add JAR/Folder, busca las tres :nut_and_bolt: drivers, el mysql se encuentra en la carpeta de :open_file_folder:`bases_datos`.<br/>
 ![image](https://github.com/Santiago29-6/SistemaDeVentas/assets/73140872/d291c65a-448e-48d7-b71a-35f980aa4db0)<br/>
